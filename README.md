@@ -1,6 +1,6 @@
-# quizzler
+# Quizzler
 
-A new Flutter project.
+A Quizzes Flutter Project.
 
 ## Getting Started
 
